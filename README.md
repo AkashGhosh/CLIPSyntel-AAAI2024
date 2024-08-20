@@ -1,9 +1,11 @@
 # CLIPSyntel-AAAI2024
-<p align="left">
+<p align="center">
     <a href="https://arxiv.org/abs/2312.11541">
         <img alt="Arxiv release" src="https://img.shields.io/badge/arXiv-2305.14251-b31b1b.svg">
     </a>
-  
+     <a href="https://huggingface.co/datasets/ArkaAcharya/MMQSD_ClipSyntel">
+        <img alt="Arxiv release" src="https://huggingface.co/datasets/huggingface/badges/resolve/main/dataset-on-hf-md-dark.svg">
+    </a>
 </p>
 A portion of the dataset used in the paper 𝐂𝐋𝐈𝐏𝐒𝐲𝐧𝐭𝐞𝐥: 𝗖𝗟𝗜𝗣 𝗮𝗻𝗱 𝗟𝗟𝗠 𝗦𝘆𝗻𝗲𝗿𝗴𝘆 𝗳𝗼𝗿 𝗠𝘂𝗹𝘁𝗶𝗺𝗼𝗱𝗮𝗹 𝗤𝘂𝗲𝘀𝘁𝗶𝗼𝗻 𝗦𝘂𝗺𝗺𝗮𝗿𝗶𝘇𝗮𝘁𝗶𝗼𝗻 𝗶𝗻 𝗛𝗲𝗮𝗹𝘁𝗵𝗰𝗮𝗿𝗲 is attached.
 
